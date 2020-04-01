@@ -1,1 +1,3 @@
-These are some data files used in the Streamlit "Hello World" command `streamlit hello`.
+This repo contains data files used in some Streamlit examples.
+
+https://streamlit.io
